@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Backups
+*.bak
+
+# Recovery files (large, Apple-owned) - never commit
+com.apple.recovery.boot/
+*.dmg
+BaseSystem.*

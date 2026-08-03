@@ -1,0 +1,8 @@
+# Forçar binário para arquivos do EFI (evita corrupção por CRLF)
+*.efi binary
+*.aml binary
+*.icns binary
+*.png binary
+*.bin binary
+*.ffs binary
+*.zip binary
